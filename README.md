@@ -1,6 +1,6 @@
 # Hi, I'm @jasonachkar! 👋
 
-I'm a passionate Software Engineer, AI Trainer, and Game Developer dedicated to creating innovative solutions that bridge the gap between technology and everyday life. My work spans mobile app development, immersive game creation, and full-stack web applications, with a keen focus on leveraging cutting-edge technologies to solve real-world challenges.
+I'm a passionate Software Developer, AI Trainer, and Game Developer dedicated to creating innovative solutions that bridge the gap between technology and everyday life. My work spans mobile app development, immersive game creation, and full-stack web applications, with a keen focus on leveraging cutting-edge technologies to solve real-world challenges.
 
 ---
 
