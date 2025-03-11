@@ -1,83 +1,46 @@
-# Hi, I'm @jasonachkar! 👋
+# Hi there, I'm Jason Achkar Diab! 👋
 
-I'm a passionate Software Developer, AI Trainer, and Game Developer dedicated to creating innovative solutions that bridge the gap between technology and everyday life. My work spans mobile app development, immersive game creation, and full-stack web applications, with a keen focus on leveraging cutting-edge technologies to solve real-world challenges.
+I'm a passionate developer, innovator, and Coding Expert for AI Training. I love building solutions that blend technology and creativity to make a real impact. Welcome to my GitHub profile!
 
----
+## 🚀 About Me
 
-## About Me
+I'm dedicated to exploring the intersection of software development, AI, and game design. Whether I'm training advanced AI models, developing mobile and web applications, or creating immersive games, I'm always eager to learn, experiment, and share my journey.
 
-- **AI & Software Enthusiast:** Actively training AI systems in coding, mathematics, and diverse subjects at Outlier.ai and DataAnnotation.
-- **Hands-On Developer:** Leading projects that integrate mobile, game, and web development to deliver user-centric experiences.
-- **Lifelong Learner:** Continuously expanding my expertise in advanced game development, machine learning, and emerging tech trends.
+## 💻 Coding Expertise
 
----
+- **Coding Expert for AI Training:** I specialize in training advanced AI models to boost code generation and comprehension across languages like Python, Java, JavaScript, and C++.
+- **Full-Stack & Mobile Development:** I build innovative, user-centric solutions that deliver real-world value.
+- **Game Development:** I create immersive experiences using Unreal Engine, Blueprints, and C++.
 
-## Projects
+## 🔧 Projects
 
-### MaVille – Mobile Application
-**Overview:**  
-MaVille is a cross-platform mobile application designed to improve communication between municipalities and residents. It streamlines emergency and service requests while providing real-time updates and interactive features.
+### [Personal Portfolio Website](https://jasonachkardiab.com/)
+A modern, responsive website that showcases my projects, skills, and professional journey with interactive elements and smooth animations.
 
-**Key Features:**
-- **Real-Time Tracking:** Monitor emergency and service requests as they happen.
-- **Interactive Maps:** Visualize service areas with an intuitive city map interface.
-- **Custom Notifications:** Receive personalized alerts using Firebase Cloud Messaging.
-- **AI Chatbot Integration:** Assist citizens with queries and municipal information.
+### [Explorer – 3D FPS Game](https://github.com/jasonachkar)
+An immersive 3D adventure game developed with Unreal Engine, featuring dynamic combat, realistic AI behaviors, and engaging storytelling.
 
-**Technologies Used:**  
-- **Flutter & Dart:** For a seamless cross-platform mobile experience.
-- **Firebase Cloud Messaging:** To enable instant, reliable notifications.
-- **UI/UX Design:** Focused on creating an engaging and user-friendly interface.
+### [PERSUADE – AI-Powered Sales Training App](https://github.com/jasonachkar/PERSUADE)
+An interactive mobile application that simulates real-world sales scenarios with AI-driven customer interactions, real-time voice and chat features, and personalized training insights.
 
----
+### [MaVille – Mobile Application](https://github.com/jasonachkar/MaVille-Final/tree/main)
+A cross-platform mobile app designed to enhance communication between municipalities and residents through real-time tracking, interactive maps, and customizable notifications.
 
-### Explorer – 3D FPS Game
-**Overview:**  
-Explorer is an immersive 3D adventure and FPS game developed with Unreal Engine. Players embark on a thrilling mission to rescue a kidnapped sister, navigating a mysterious forest filled with side quests and intense demon battles.
+### [FamilyTreeCreator – Web Application](https://tatiana-ancestry.vercel.app/)
+A full-stack platform that lets users document and visualize family genealogy through an intuitive, interactive interface.
 
-**Key Features:**
-- **Immersive Game World:** Rich, realistic graphics and detailed environments powered by Unreal Engine.
-- **Dynamic Combat:** A blend of Unreal Engine’s visual scripting (Blueprints) and C++ for fluid gameplay and engaging combat mechanics.
-- **Interactive Storyline:** A narrative-driven experience with side missions and evolving challenges.
-- **Optimized Performance:** Developed using iterative testing and object-oriented design principles for scalability and smooth performance.
+## 🛠️ Skills & Tools
 
-**Technologies Used:**  
-- **Unreal Engine:** Harnessing powerful 3D rendering and asset management tools.
-- **Blueprints & C++:** For robust gameplay mechanics and AI behavior.
+- **Languages:** C#, Java, C++, Python, Dart, JavaScript, SQL, HTML, CSS  
+- **Mobile Development:** Flutter, Firebase  
+- **Web Development:** Node.js, React, Next.js, Tailwind CSS, Supabase  
+- **Game Development:** Unreal Engine, Blueprints  
+- **Other:** Agile, Git, API Integration, Cybersecurity, Cloud Computing, Database Design  
 
----
+## 🤝 Let’s Connect!
 
-### FamilyTreeCreator – Web Application
-**Overview:**  
-FamilyTreeCreator is a full-stack web application that empowers users to build and manage their family trees. This platform offers a secure and interactive way to document and explore family histories.
-
-**Key Features:**
-- **User-Friendly Interface:** Simplifies the process of creating and updating family trees.
-- **Secure Authentication:** Ensures that user data is protected with robust login and session management.
-- **Efficient Data Management:** Utilizes NoSQL databases for seamless handling of hierarchical family data.
-- **Responsive Design:** Provides a consistent experience across all devices.
-
-**Technologies Used:**  
-- **Node.js:** For server-side logic and API development.
-- **NoSQL Databases (Upstash & Blob):** To manage complex, hierarchical data efficiently.
-- **Responsive Web Design:** Ensuring accessibility and usability on any device.
-
----
-
-## Technologies & Skills
-
-- **Programming Languages:** C#, Java, C++, Python, Dart, JavaScript, SQL
-- **Mobile Development:** Flutter, Firebase
-- **Web Development:** Node.js, ReactJS, NoSQL databases
-- **Game Development:** Unreal Engine, Blueprints, C++
-- **AI & Machine Learning:** Practical experience in training and implementing AI solutions
-
----
-
-## Get in Touch
+I'm always excited to collaborate on innovative projects or just chat about tech. Feel free to explore my repositories or get in touch!
 
 - **Email:** [jasonachkardiab@gmail.com](mailto:jasonachkardiab@gmail.com)
-- **LinkedIn:** [Jason Achkar Diab](http://www.linkedin.com/in/jason-achkar-diab)
+- **LinkedIn:** [Jason Achkar Diab](https://www.linkedin.com/in/jason-achkar-diab)
 - **GitHub:** [@jasonachkar](https://github.com/jasonachkar)
-
-Feel free to explore my projects, connect with me, or reach out if you’d like to collaborate on something exciting. Let's create innovative solutions together!
